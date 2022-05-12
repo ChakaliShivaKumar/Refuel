@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "330165813680",
+    "firebase_url": "https://refuel-31e36-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "refuel-31e36",
+    "storage_bucket": "refuel-31e36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330165813680:android:1b36c1dfbddfe7a7b8d675",
+        "android_client_info": {
+          "package_name": "com.example.refuel1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330165813680-cfci1ee2g0m7mabellrdf4d382t5qgip.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.refuel1",
+            "certificate_hash": "165ddb32b0f4c0667a0cec22cacfc96caf657c36"
+          }
+        },
+        {
+          "client_id": "330165813680-niq9bgqi29981hjpkdui3sqipg0cbtdi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-9xC8hYJCt8zysUnEKD5Vtu6BfF1vaE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330165813680-niq9bgqi29981hjpkdui3sqipg0cbtdi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
