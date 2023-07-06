@@ -43,8 +43,8 @@ public class SetupProfileActivity extends AppCompatActivity {
 
         //init progress dialog
         progressDialog = new ProgressDialog(this);
-        progressDialog.setTitle("Please wait...");
-        progressDialog.setCanceledOnTouchOutside(false);
+        progressDialog.setTitle("Please wait...dhbjscsdbahdbchsjchdscdjen");
+        progressDialog.setCanceledOnTouchOutside(true);
 
         progressDialog.setMessage("Signing In");
         progressDialog.show();
